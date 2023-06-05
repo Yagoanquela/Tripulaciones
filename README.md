@@ -22,7 +22,7 @@ Para descargar el repositorio, en Visual Studio, abra una terminal y ejecute el 
 ```
 Backend: $ git clone https://github.com/Fede-Arevalo/BACK-TRIPULACIONES
 Frontend: $ git clone https://github.com/Fede-Arevalo/FRONT-TRIPULACIONES
-Dara: $ git clone https://github.com/Yagoanquela/Tripulaciones
+Data & Django: $ git clone https://github.com/Yagoanquela/Tripulaciones
 ```
 
 A continuación, deberá descargar los módulos externos. Para hacer esto, ejecute el siguiente comando:
